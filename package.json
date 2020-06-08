@@ -1,0 +1,30 @@
+{
+  "name": "chatbot-pizzaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PyDecco/chatbot-pizzaria.git"
+  },
+  "keywords": ["botbuilder",
+  "chatbots",
+  "bot-framework",
+  "nodejs"
+],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PyDecco/chatbot-pizzaria/issues"
+  },
+  "homepage": "https://github.com/PyDecco/chatbot-pizzaria#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "dotenv-extend": "2.3.0",
+    "moment":"^2.26.0",
+    "retify":"^6.3.4"
+  }
+}

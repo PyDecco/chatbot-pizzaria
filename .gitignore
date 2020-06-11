@@ -1,1 +1,5 @@
 node_modules
+.vscode
+
+# donenv env variabels file
+.env

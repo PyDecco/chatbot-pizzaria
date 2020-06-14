@@ -68,7 +68,7 @@ intents.matches('Pedir', [
       var time = moment().add(30,'m');
 
       session.dialogData.time = time.format('HH:mm');
-      session.send("Perfeito! sua pizz de **%s** chegará as **%s**", results.response)
+      session.send("Perfeito! sua pizza de **%s** chegará as **%s**", results.response.entity,dialogData.time);
     }
   }
 ]);

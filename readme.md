@@ -17,8 +17,8 @@ chatBot Pizzaria
 
 [//]: # (adicione seus gifs / imagens aqui :)
 <div align ="center">
-  <img src = "ezgif.com-crop.gif" alt = "demo" height = "200">
-  <img src = "ezgif.com-video-to-gif (2).gif" alt = "demo" height = "200">
+  <img src = "ezgif.com-crop.gif" alt = "demo" height = "400">
+  <img src = "ezgif.com-video-to-gif (2).gif" alt = "demo" height = "400">
 </div>
 
 <hr />
